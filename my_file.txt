@@ -1,0 +1,6 @@
+Line 1: This is the first line of text.
+Line 2: The number is 123.
+Line 3: Python file handling is fun!
+Line 4: Appending more content.
+Line 5: Numbers can be added like this: 456.
+Line 6: More file operations are possible!
